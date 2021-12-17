@@ -12,7 +12,7 @@ import org.openqa.selenium.interactions.Actions;
 public class AssignmentSliderBar {
 
 	public static void main(String[] args)  {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method
 
 	System.setProperty("webdriver.gecko.driver", "C:\\selenium installations\\geckodriver.exe");
 	FirefoxDriver f = new FirefoxDriver();
